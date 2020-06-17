@@ -11,3 +11,7 @@ $ rm -rf /usr/share/plymouth/themes/loongsonos
 $ mv loongsonos-plymouth-theme-master /usr/share/plymouth/themes/loongsonos
 $ plymouth-set-default-theme loongsonos -R
 ```
+## Credit
+
+* Script based on [Miku](https://github.com/godcrying/miku-plymouth-theme)
+* Animation designed by Loongson Artists
