@@ -1,1 +1,2 @@
-# plymouthd
+# LoongsonOS Plymouth Theme
+
