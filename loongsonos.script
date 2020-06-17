@@ -1,9 +1,9 @@
 #----------------------------------------- Configuration --------------------------------
 
-image_size = "xs";
-skip_frame = 2;    # skip n-1 frames every n frames
+image_size = "sm";
+skip_frame = 1;    # skip n-1 frames every n frames
 enable_resize = 0; # enable resize for better screen resolution compatibility at the cost of longer load times
-speed = 4;         # animation speed
+speed = 2;         # animation speed
 num_images = 125;
 
 #----------------------------------------- Background --------------------------------

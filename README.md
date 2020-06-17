@@ -5,7 +5,9 @@
 As root, run
 
 ```
-$ cd /usr/share/plymouth/themes
-$ git clone https://github.com/Loongbian/loongsonos-plymouth-theme loongsonos
+$ wget https://github.com/Loongbian/loongsonos-plymouth-theme/archive/master.zip -O loongsonos-plymouth-theme.zip
+$ unzip loongsonos-plymouth-theme.zip
+$ rm -rf /usr/share/plymouth/themes/loongsonos
+$ mv loongsonos-plymouth-theme-master /usr/share/plymouth/themes/loongsonos
 $ plymouth-set-default-theme loongsonos -R
 ```
