@@ -1,15 +1,15 @@
-# LoongsonOS Plymouth Theme
+# Loongbian Plymouth Theme
 
 ## Installation
 
 As root, run
 
 ```
-$ wget https://github.com/Loongbian/loongsonos-plymouth-theme/archive/master.zip -O loongsonos-plymouth-theme.zip
-$ unzip loongsonos-plymouth-theme.zip
-$ rm -rf /usr/share/plymouth/themes/loongsonos
-$ mv loongsonos-plymouth-theme-master /usr/share/plymouth/themes/loongsonos
-$ plymouth-set-default-theme loongsonos -R
+$ wget https://github.com/Loongbian/loongbian-plymouth-theme/archive/master.zip -O loongbian-plymouth-theme.zip
+$ unzip loongbian-plymouth-theme.zip
+$ rm -rf /usr/share/plymouth/themes/loongbian
+$ mv loongbian-plymouth-theme-master /usr/share/plymouth/themes/loongbian
+$ plymouth-set-default-theme loongbian -R
 ```
 ## Credit
 

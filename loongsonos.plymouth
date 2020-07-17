@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=LoongsonOS
-Description=LoongsonOS
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/loongsonos/img
-ScriptFile=/usr/share/plymouth/themes/loongsonos/loongsonos.script
